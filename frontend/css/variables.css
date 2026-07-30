@@ -1,0 +1,26 @@
+:root {
+    /* Cores */
+    --primary-color: #1E3A5F;
+    --secondary-color: #F4B942;
+    --background-color: #F8F9FA;
+    --text-color: #222222;
+    --white-color: #FFFFFF;
+
+    /* Tipografia */
+    --font-primary: "Poppins", sans-serif;
+
+    /* Tamanhos */
+    --title-size: 2rem;
+    --text-size: 1rem;
+
+    /* Espaçamentos */
+    --spacing-small: 8px;
+    --spacing-medium: 16px;
+    --spacing-large: 32px;
+
+    /* Bordas */
+    --border-radius: 12px;
+
+    /* Sombras */
+    --shadow: 0 4px 10px rgba(0,0,0,0.1);
+}

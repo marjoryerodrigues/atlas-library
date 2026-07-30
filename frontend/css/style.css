@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+
+nav ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+
+nav a {
+    text-decoration: none;
+}
+
+.hero {
+    min-height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.hero-content {
+    text-align: center;
+}
